@@ -1,0 +1,22 @@
+Omaha-Douglas-Public-Building-Commission/1910-Parking-Garage,omaha-douglas,nebraska
+LAZ-Bofa-Gateway-Village/bofa-gateway-village,bofa-gateway-village,north-carolina
+LAZ-BofA-401-Tryon/BofA-401-NTryon,BofA-401-NTryon,north-carolina
+LAZ-Bofa-7th-street-station/LAZ-Bofa-7th-street-station,LAZ-Bofa-7th-street-station,north-carolina
+Laz-Bofa-1BAC/Laz-Bofa-1BAC-Garage,Laz-Bofa-1BAC,north-carolina
+Fast-Park-RDU-Airport/RDU-Airport,RDU-Airport,north-carolina
+Cincinnati-Zoo/Cincinnati-Zoo,Cincinnati-Zoo,ohio
+LAZ-Tower-City/Tower-city-Cleveland-Ohio,Tower-city,ohio
+Laz-Parking-Water-street-Garage/Water-Street-Flat,Water-Street-garage,ohio
+Cleveland-Museum/Cleveland-Museum-of-Natural-History,Cleveland-Museum,ohio
+Mabley-Place/Mabley-Place,Mabley-Place,ohio
+InterPark:200-Public-Square/200-Public-Square,InterPark:200-Public-Square,ohio
+Rapid-City-Airport/Rapid-City-Airport,Rapid-City-Airport,south-dakota
+ABM-222-S.Main-Street/ABM-222-S. Main-Street,ABM-222-S-Main-Street,utah
+Grand-America-Hotel/Grand-America-Hotel,Grand-America-Hotel,utah
+Grand-America-Hotel/RAW-Bean-LOT,RAW-Bean-LOT,utah
+Little-America-Hotel/Little-America-Hotel,Little-America-Hotel,utah
+Onni-South-Lake-Union/Onni-South-Lake-Union,Onni-South-Lake-Union,washington
+BXP-Safeco-Plaza/BXP-Safeco-Plaza,BXP-Safeco-Plaza,washington
+RMR-Group-Unison-Elliott-West/Unison-Elliott-Bay-Seattle,Unison-Elliott-Bay-Seattle,washington
+SP-Parkonect-1150-Eastlake/1150-EastLake,1150-EastLake,washington
+Laz-Parking-Union-Square/Union-Square-Seattle-WA,Union-Square-Seattle,washington

@@ -1,0 +1,46 @@
+Little-Rock-Convention-and-Visitors-Bureau/Convention-District-Garage,convention-district,arkanas
+Little-Rock-Convention-and-Visitors-Bureau/River-Market-Deck,little-River-market,arkanas
+Little-Rock-Convention-and-Visitors-Bureau/Robinson-Center-Garage,little-Robinson-center,arkanas
+Parkwell-One-Plate/Parkwell-One-Platte,Parkwell-one-platte,colorado
+CO-Denver-Health-and-Hospital/Delaware-Garage,Delaware,colorado
+CO-Denver-Health-and-Hospital/Denver-Health-and-Hospital,Denver-hospital,colorado
+CT-Hartford21/Commercial,Ct-hartford,connecticut
+CT-Hartford21/Residential.Ct-hartford,connecticut
+CT-TNStamford/CT-TNStamford,CT-TNStamford,connecticut
+QuikPark-Quadrangle/One-Freedom-Plaza,QuikPark-Quadrangle,DC
+QuikPark-Quadrangle/QuikPark-1001-G-St,QuikPark-Quadrangle,DC
+SP-Plus-20-Mass-Ave/SP-Plus-20-Mass-Ave,20-Mass,DC
+LAZ-Washington-Hospital/Washington-Hospital,LAZ-Washington-Hospital,DC
+55-Allen-Plaza/55-Allen-Plaza,55-Allen-plaza,georgia
+GA-JWMarriott-Savannah/GA-JWMarriott-Savannah,GA-JWMarriott-Savannah,georgia
+Piikoi-Pacific-Property-Group/Piikoi-Garage,Piikoi-Garage,hawaii
+UPMC-Kaimuki-Gateway-Plaza/UPMC-Kaimuki-Gateway-Plaza,UPMC-Kaimuki-Gateway-Plaza,hawaii
+SP-Plus-Mercantile/Mercantile-Center-Garage,Mercantile-Center-Garage,massachusetts
+MacMillan-Pier-Lot/MacMillan-Pier-Lot,MacMillan-Pier-Lot,massachusetts
+Grace-Hall-Lot/Grace-Hall-Lot,Grace-Hall-Lot,massachusetts
+LAZ-Parking-Dock-Square/LAZ-Parking-Dock-Square,LAZ-Parking-Dock-Square,massachusetts
+SP-City-of-Malden-Garages\ /City-of-Malden-Garages,City-of-Malden-Garages,massachusetts
+PARCS/200-Stuart-Street-Garage,PARCS,massachusetts
+MA-LAZ-Viridian-Boston/Viridian,Viridian,massachusetts
+LAZ-Parking-The-Smith/The-Smith,The-Smith,massachusetts
+City of St. Paul-Lawson-Ramp/Lawson Ramp,Lawson Ramp,minnesota
+Intersate-Parking-MN-2053-Garage/MN2053-Garage,MN2053-Garage,minnesota
+8000-Maryland/8000-Maryland,8000-Maryland,missouri
+Mid-Con-Welsh-Plaza/Mid-Con-Welsh-Plaza,Mid-Con-Welsh-Plaza,missouri
+Inter-Park-SL001:St-East-Garage/SL001: Statium-East-Garage,Inter-Park-SL001:St-East-Garage,missouri
+InterPark-SL003:Kiener-Plaza-East/SL003:Kiener-Plaza-East,SL003:Kiener-Plaza-East,missouri
+InterPark-SL004:Kiener-Plaza-West/SL004:Kiener-Plaza-West,SL004:Kiener-Plaza-West,missouri
+Parkonect-8thnState/Parkonect,Parkonect,montana
+LAZ-Parking-Bozeman-Airport/Laz-Parking-Bozeman-Airport,Laz-Parking-Bozeman-Airport,montana
+
+
+
+
+
+
+
+
+
+
+
+
