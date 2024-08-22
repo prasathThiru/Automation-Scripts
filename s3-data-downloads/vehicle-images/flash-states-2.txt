@@ -1,0 +1,32 @@
+IL-Denison-Parking/Denison-Parking-327-N-Illinois,Denison-Parking-327-N-Illinois,indiana
+IL-Denison-Parking/Denison-Parking-Merchants-Garage,Denison-Parking-Merchants-Garage,indiana
+IL-Denison-Parking/Denison-Parking-Plaza-Park-Garage,Denison-Parking-Plaza-Park-Garage,indiana
+Fast-Park-IND-Airport/Fast-Park-IND-Airport,Fast-Park-IND-Airport,
+Parcs-MainGarage/Main-Garage-1st,Main-Garage-1st,kentucky
+Fast-Park-CVG-Airport/Fast-Park-CVG,Fast-Park-CVG,kentucky
+ProPark-One-Light-Street/One-Light-Street,One-Light-Street,maryland
+Annapolis-City-Marina/Annapolis-City-Marina,Annapolis-City-Marina,maryland
+CRMC/Largo-Maryland,Largo-Maryland,maryland
+Lockwood-Garage/Lockwood-Garage,Lockwood-Garage,maryland
+CS-Groups-Towne-Park/Towson-Commons,Towson-Commons,maryland
+LazParking-2100Lst/2100L-ST,2100L-ST,maryland
+UMB-Plaza/UMB-Plaza,UMB-Plaza,maryland
+SP-Plus-Mercantile/Mercantile-Center-Garage,Mercantile-Center-Garage,massachusetts
+LAZ-Parking-Dock-Square/LAZ-Parking-Dock-Square,LAZ-Parking-Dock-Square,massachusetts
+PARCS/200-Stuart-Street-Garage,200-Stuart-Street-Garage,massachusetts
+LAZ-Parking-The-Smith/The-Smith,The-Smith,massachusetts
+MA-LAZ-Viridian-Boston/Viridian,Viridian,massachusetts
+SP-City-of-Malden-Garages /City-of-Malden-Garages,City-of-Malden-Garages,massachusetts
+Grace-Hall-Lot/Grace-Hall-Lot,Grace-Hall-Lot,massachusetts
+MacMillan-Pier-Lot/MacMillan-Pier-Lot,MacMillan-Pier-Lot,massachusetts
+458W-Lafayette/458W-Lafayette,458W-Lafayette,michigan
+Laz-Parking-Kalamazoo-Airport/Laz-Parking-Kalamazoo-Airport,Laz-Parking-Kalamazoo-Airport,michigan
+Bedrock-Detroit/Bedrock-Detroit,Bedrock-Detroit,michigan
+LAZ-Ford-Bagley/Ford-Bagley,Ford-Bagley,michigan
+Park-Rite/222-W-Lafayette,222-W-Lafayette,michigan
+Park-Rite/Trolley-Plaza,Trolley-Plaza,michigan
+City of St. Paul-Lawson-Ramp/Lawson Ramp,Lawson Ramp,minnesota
+The-Archive-Garage-Interstate-Parking/The-Archive-Garage,The-Archive-Garage,minnesota
+Interstate-Parking-MN2149/MN2149-La-Salle-Plaza,MN2149-La-Salle-Plaza,minnesota
+Intersate-Parking/MN2053-Garage,MN2053-Garage,minnesota
+St.Paul-Holiday-Garage/St.Paul-Holiday-Garage,St.Paul-Holiday-Garage,minnesota
