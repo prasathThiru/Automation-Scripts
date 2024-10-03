@@ -1,4 +1,4 @@
-data_location="/home/prasath/prasath_hdd/prasath/Flashparking/ocr_data/all"
+data_location="/home/prasath/prasath_hdd/prasath/Flashparking/ocr_data/state-segregation/latest"
 s3_path="s3://uploads.flashvision.videoanalytics"
 
 echo "enter number of days report"
