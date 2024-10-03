@@ -1,0 +1,78 @@
+{
+    "instance_manager": {
+        "single": {
+            "enabled": false,
+            "event_port": 5000,
+            "live_port": 5001,
+            "monitoring_port": 5002
+        },
+        "multi": {}
+    },
+    "apps": [
+        {
+            "name": "instance_manager",
+            "script": "./instance_manager.js",
+            "max_memory_restart": "150M",
+            "error_file": "/dev/null",
+            "out_file": "/dev/null",
+            "min_uptime": "600s",
+            "interpreter_args": "--max-old-space-size=100"
+        },
+        {
+            "instance_id": 1,
+            "name": "instance_1",
+            "script": "./app.js",
+            "max_memory_restart": "150M",
+            "args": [
+                "/uncanny/sink/config/config_1.json"
+            ],
+            "error_file": "/dev/null",
+            "out_file": "/dev/null",
+            "min_uptime": "600s",
+            "interpreter_args": "--max-old-space-size=100",
+            "status": "running"
+        },
+        {
+            "instance_id": 2,
+            "name": "instance_2",
+            "script": "./app.js",
+            "max_memory_restart": "150M",
+            "args": [
+                "/uncanny/sink/config/config_2.json"
+            ],
+            "error_file": "/dev/null",
+            "out_file": "/dev/null",
+            "min_uptime": "600s",
+            "interpreter_args": "--max-old-space-size=100",
+            "status": "running"
+        },
+        {
+            "instance_id": 3,
+            "name": "instance_3",
+            "script": "./app.js",
+            "max_memory_restart": "150M",
+            "args": [
+                "/uncanny/sink/config/config_3.json"
+            ],
+            "error_file": "/dev/null",
+            "out_file": "/dev/null",
+            "min_uptime": "600s",
+            "interpreter_args": "--max-old-space-size=100",
+            "status": "running"
+        },
+        {
+            "instance_id": 4,
+            "name": "instance_4",
+            "script": "./app.js",
+            "max_memory_restart": "150M",
+            "args": [
+                "/uncanny/sink/config/config_4.json"
+            ],
+            "error_file": "/dev/null",
+            "out_file": "/dev/null",
+            "min_uptime": "600s",
+            "interpreter_args": "--max-old-space-size=100",
+            "status": "running"
+        }
+    ]
+}

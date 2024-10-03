@@ -1,0 +1,9 @@
+{
+    "endpoint": "primary",
+    "url": "",
+    "method_type": "json",
+    "sync_interval_seconds": "-1",
+    "keep_event_interval_minutes": "1",
+    "headers": {},
+    "extras": {}
+}

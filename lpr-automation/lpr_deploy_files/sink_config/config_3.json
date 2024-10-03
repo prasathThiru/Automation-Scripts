@@ -1,0 +1,43 @@
+{
+    "dashboard": {
+        "enabled": "false",
+        "endpoint": "https://vision.flashparking.com",
+        "username": "test@uncannyvision.com",
+        "islocal": "false",
+        "token": "460790cd-b9e0-4be5-acff-81c7770af9b3",
+        "orgId": "1584702755359",
+        "placeId": "1607665172225",
+        "camId": "1607665193702",
+        "alerts": {
+            "priority": 1
+        },
+        "pipeline_type": "",
+        "aws_bucket_name": "uploads.flashvision.videoanalytics",
+        "aws_url_header": "https://s3-us-west-2.amazonaws.com",
+        "aws_iam_user_key": "",
+        "aws_iam_user_secret": "",
+        "orgName": "",
+        "placeName": "",
+        "name": ""
+    },
+    "app": {
+        "server_port": 8203,
+        "monitoring_port": 5112,
+        "event_port": 5113,
+        "live_port": 5114
+    },
+    "other": {
+        "delete_images": false,
+        "elk": false,
+        "db_sort_order": "DESC"
+    },
+    "extras": {
+        "forceSST": false
+    },
+    "debug": {
+        "enabled": true,
+        "level": 2
+    },
+    "path": "/uncanny/sink/config/config_3.json",
+    "version": 4
+}

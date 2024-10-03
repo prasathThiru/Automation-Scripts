@@ -1,0 +1,90 @@
+version: '2'
+
+services:
+    models:
+        container_name: anpr_models
+        image: uvdeployment/anpr-dev:models-1.0.0
+        restart: always
+        network_mode: "host"
+        logging:
+            options:
+                max-size: "100m"
+                max-file: "2"
+        volumes:
+            - /uncanny/anpr/models:/anpr
+    anpr:
+        container_name: anpr
+        image: uvdeployment/anpr-dev:ee_lpr_2.0.0
+        restart: always
+        network_mode: "host"
+        shm_size: '2g'
+        environment:
+            - FORCE_NO_GPU_USE=YES
+            - ENABLE_MAKE=0
+            - ENABLE_COLOUR=0
+            - ENABLE_EEN=0
+            - ENABLE_SD_GPU=0
+            - ENABLE_SD_MYRIAD=0
+            - NUM_OF_GPUS=0
+            - NUM_OF_MYRIADS=0
+        volumes:
+           # - /var/run/docker.sock:/var/run/docker.sock
+            - /uncanny:/uncanny
+            - /etc/uncanny:/etc/uncanny
+            - /uncanny/anpr/models:/anpr
+            - /etc/localtime:/etc/localtime:ro
+            - /sys:/sys
+        #ports:
+        #   - 5000:5000
+        logging:
+           options:
+               max-size: "10m"
+               max-file: "5"
+        mem_limit: 4050000000
+        memswap_limit: 4050000000
+        #mem_reservation: 512m
+        devices:
+            - /dev/dri:/dev/dri
+        privileged: true
+    sink:
+        container_name: sink
+        image: uvdeployment/node-common:sink_v2.2.2
+        restart: always
+        network_mode: "host"
+        logging:
+           options:
+               max-size: "100m"
+               max-file: "2"
+        environment:
+            - UV_CONTAINER=localhost
+              # network_mode: "host"
+        #ports:
+        #  - 8201:8201
+        #  - 8202:8202
+        #  - 8203:8203
+        #  - 8204:8204
+        volumes:
+            - /uncanny:/uncanny
+            - /etc/localtime:/etc/localtime:ro
+    ui:
+        container_name: anpr_ui
+        image: uvdeployment/anpr-dev:non-een_1.1.6
+        environment:
+            - ANPR_HOST=localhost:5000
+            - SINK_HOST=localhost
+            - SINK_PORT=8200
+        restart: always
+        network_mode: host
+        logging:
+           options:
+               max-size: "2m"
+               max-file: "2"
+        mem_limit: 230000000
+        memswap_limit: 230000000 
+       #mem_reservation: 512m
+       # ports:
+       #  - 9090:9090
+       #network_mode: "host"
+        volumes:
+            - /uncanny:/uncanny
+            - /etc/localtime:/etc/localtime:ro
